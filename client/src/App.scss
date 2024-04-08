@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  .app__wrapper {
+    padding-left: calc(100vw - 100%);
+    user-select: none;
+  }
+  h1{
+    text-align: center;
+  }
+}
